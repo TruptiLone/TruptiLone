@@ -9,7 +9,7 @@
 
 ---
 
-## 🚀 Featured work
+## Featured work
 
 | Project | What it does | Built with |
 |---|---|---|
