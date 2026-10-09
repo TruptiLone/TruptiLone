@@ -1,4 +1,4 @@
-# Hi, I'm Trupti 👋
+# Hi, I'm Trupti 
 
 **Software Engineer · Machine Learning & AI** — I build backend services, ML pipelines and LLM applications (RAG, voice AI, agents) with Python, FastAPI and AWS.
 
