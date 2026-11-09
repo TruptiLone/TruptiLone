@@ -13,6 +13,7 @@
 
 | Project | What it does | Built with |
 |---|---|---|
+| **[CaféPilot](https://github.com/TruptiLone/cafepilot)** 🆕 | AI control center for independent cafés — *Meta Global AI Developer Hackathon*. Spots local events, forecasts demand, plans ingredient orders and staffing, checks deliveries through Meta smart glasses, and acts only after the owner approves. | Meta Muse models · agentic planning (DAG) · FastAPI · React/TypeScript · Meta glasses |
 | **[AI Realtor Voice Assistant](https://github.com/TruptiLone/ai-realtor-voice-assistant)** | Voice-first home tours: buyers ask questions out loud and get spoken answers grounded in listing data. I built the backend and AI pipeline. | FastAPI · WebSockets · LangChain · FAISS · Whisper · ElevenLabs |
 | **[Studentlytics](https://github.com/TruptiLone/AWS-Hackathon)** 🏆 | Classroom engagement analytics from class video — **AWS INRIX Hackathon winner**. | AWS Lambda · Step Functions · Rekognition · DynamoDB · Bedrock · React |
 | **[Technical Knowledge Assistant](https://github.com/TruptiLone/technical-docs-assistant-rag-pipeline)** | RAG pipeline comparing BM25, dense and hybrid retrieval with a reproducible evaluation (hybrid MRR@3 = 1.00). | Python · FAISS · Hugging Face · pytest |
