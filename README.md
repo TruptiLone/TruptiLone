@@ -11,9 +11,9 @@
 
 ## Featured work
 
-| Project | What it does | Built with |
+| Project | Purpose | Built with |
 |---|---|---|
-| **[CaféPilot](https://github.com/TruptiLone/cafepilot)** | Research-driven AI operations assistant for independent cafés, built for the Meta Global AI Developer Hackathon (one of 5,300 submissions; my idea was selected in the first 20K). I researched café owners' pain points across inventory, sales, staffing and the separate apps they juggle, then combined them into one app with an agentic AI assistant. It forecasts event-driven demand, plans stock and staff, and checks deliveries through Meta glasses. Nothing changes until the owner approves. | Python · Meta Muse · SAM 3.1 · Meta glasses · Postgres · React |
+| **[CaféPilot](https://github.com/TruptiLone/cafepilot)** | Unified AI assistant for independent cafés, built from owner pain-point research: forecasts event demand, plans stock and staff, and checks deliveries through Meta glasses, with owner approval on every change. Meta Global AI Developer Hackathon (idea selected in the first 20K; one of 5,300 submissions). | Python · Meta Muse · SAM 3.1 · Meta glasses · Postgres · React |
 | **[AI Realtor Voice Assistant](https://github.com/TruptiLone/ai-realtor-voice-assistant)** | Voice-first home tours: buyers ask questions out loud and get spoken answers grounded in listing data. I built the backend and AI pipeline. | FastAPI · WebSockets · LangChain · FAISS · Whisper · ElevenLabs |
 | **[Studentlytics](https://github.com/TruptiLone/AWS-Hackathon)** 🏆 | Classroom engagement analytics from class video — **AWS INRIX Hackathon winner**. | AWS Lambda · Step Functions · Rekognition · DynamoDB · Bedrock · React |
 | **[Technical Knowledge Assistant](https://github.com/TruptiLone/technical-docs-assistant-rag-pipeline)** | RAG pipeline comparing BM25, dense and hybrid retrieval with a reproducible evaluation (hybrid MRR@3 = 1.00). | Python · FAISS · Hugging Face · pytest |
